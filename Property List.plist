@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ios</key>
+	<array/>
+	<key>New item</key>
+	<string>I would suggest you don&apos;t need to know that stuff: iOS includes a Foundation library where people have already solved those problems. I&apos;ve only worked on one app where I needed to augment the data structures provided by Foundation, and in that case I was specifically working as a performance engineer.
+
+The general case for an iOS developer interview is that you need to know Objective-C including memory management, you need to know the UIKit and Foundation APIs, and you need to know how to communicate efficiently with a server-side component.
+
+  qq I would suggest you don&apos;t need to know that stuff: iOS includes a Foundation library where people have already solved those problems. I&apos;ve only worked on one app where I needed to augment the data structures provided by Foundation, and in that case I was specifically working as a performance engineer.
+
+The general case for an iOS developer interview is that you need to know Objective-C including memory management, you need to know the UIKit and Foundation APIs, and you need to know how to communicate efficiently with a server-side component.
+
+I would suggest you don&apos;t need to know that stuff: iOS includes a Foundation library where people have already solved those problems. I&apos;ve only worked on one app where I needed to augment the data structures provided by Foundation, and in that case I was specifically working as a performance engineer.
+
+The general case for an iOS developer interview is that you need to know Objective-C including memory management, you need to know the UIKit and Foundation APIs, and you need to know how to communicate efficiently with a server-side component.
+
+</string>
+	<key>New item - 2</key>
+	<string></string>
+	<key>item 3</key>
+	<string>asdf</string>
+</dict>
+</plist>
