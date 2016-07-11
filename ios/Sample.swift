@@ -8,7 +8,6 @@
 
 import UIKit
 
-
 class Sample: UIViewController {
 
     var person = ("John", "Smith")
@@ -19,7 +18,6 @@ class Sample: UIViewController {
         
         person.0 = "first"
         person.1 = "second"
-        
         
         
         Confic.sharedInstance.changeViewController()
